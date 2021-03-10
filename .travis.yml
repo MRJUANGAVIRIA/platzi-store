@@ -17,7 +17,7 @@ script:
 notifications:
   email:
     reciepients:
-      - juan.gaviria@kommit.cos
+      - juan.gaviria@kommit.co
     on_success: always
     on_failure: always
 
